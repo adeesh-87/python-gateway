@@ -1,0 +1,4 @@
+apt install gcc g++ python python3 python-pip emacs git make automake perl
+apt install [OPENJDK ACCORDING TO PLATFORM]
+pip install flask pyserial celery virtualenv jinja2 gunicorn
+apt-get install wget curl build-essential tcl
